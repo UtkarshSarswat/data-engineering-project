@@ -187,12 +187,6 @@ Another challenge was validating aggregation correctness, especially for funnel 
 
 # Reflection
 
-This assignment demonstrated that effective AI-assisted development requires:
-- clear constraints
-- incremental prompting
-- continuous validation
-- deliberate simplification
-
 The AI was treated as a collaborative assistant rather than an autonomous solution generator.
 
 The final solution reflects a balance between:
