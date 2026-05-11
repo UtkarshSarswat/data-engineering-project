@@ -2,7 +2,6 @@
 
 ## AI Tool Used
 - ChatGPT (GPT-5.5)
-- GitHub Copilot (optional, if you used it)
 
 ---
 
