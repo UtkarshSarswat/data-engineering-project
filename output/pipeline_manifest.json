@@ -1,0 +1,26 @@
+{
+  "input_file_count": 30,
+  "rows_dropped_per_qc_rule": {
+    "bot_traffic": 22398,
+    "duplicate_event_id": 9887,
+    "input_rows": 510000,
+    "invalid_device_type": 0,
+    "invalid_event_type": 0,
+    "malformed_timestamp": 5113,
+    "missing_required_columns": [],
+    "null_country_code_flagged": 4703,
+    "null_device_type_dropped": 4709
+  },
+  "rows_ingested": 510000,
+  "rows_written_per_output_table": {
+    "bad_records": 5113,
+    "cleaned_events": 467893,
+    "country_device_breakdown": 990,
+    "daily_user_summary": 415680,
+    "funnel_analysis": 30,
+    "hourly_event_volume": 2880
+  },
+  "run_timestamp": "2026-05-04T13:11:20.857845+00:00",
+  "status": "success",
+  "wall_clock_duration_seconds": 33.492
+}
