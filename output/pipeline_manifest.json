@@ -20,7 +20,7 @@
     "funnel_analysis": 30,
     "hourly_event_volume": 2880
   },
-  "run_timestamp": "2026-05-04T13:11:20.857845+00:00",
+  "run_timestamp": "2026-05-11T07:17:38.232944+00:00",
   "status": "success",
-  "wall_clock_duration_seconds": 33.492
+  "wall_clock_duration_seconds": 26.999
 }
